@@ -24,7 +24,7 @@ Starbucks sends various promotional offers (BOGO, discounts, informational) to c
 
 ## 📂 Dataset
 
-- **Source:** [Kaggle – Starbucks Capstone Dataset](https://www.kaggle.com/datasets/ihormuliar/starbucks-customer-data)
+- **Source:** [Kaggle – Starbucks Capstone Dataset]([https://www.kaggle.com/datasets/ihormuliar/starbucks-customer-data](https://www.kaggle.com/datasets/ihormuliar/starbucks-customer-data))
 - **Size:** 300,000+ transaction entries across 3 files
 - **Files:**
   - `portfolio.json` — Offer details (type, difficulty, reward, channels)
@@ -155,7 +155,7 @@ jupyter
 
 **Lokesh Kumar**
 B.S. Physics | IIT Kanpur
-[GitHub](https://github.com/Lokesh-Kumar) • [LinkedIn](https://linkedin.com/in/Lokesh-Kumar)
+[GitHub]([https://github.com/Lokesh-Kumar](https://github.com/LokeshKumar798)) • [LinkedIn]([https://linkedin.com/in/Lokesh-Kumar](https://www.linkedin.com/in/lokesh-kumar-5456a2253/))
 
 ---
 
